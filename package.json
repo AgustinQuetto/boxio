@@ -1,0 +1,16 @@
+{
+    "name": "boxio",
+    "version": "1.0.0",
+    "description": "A friendly-extendible storage for your FrontEnd applications",
+    "license": "MIT",
+    "repository": "agustinquetto/boxio",
+    "main": "Boxio.js",
+    "keywords": [
+      "npm",
+      "react",
+      "storage",
+      "global",
+      "states",
+      "generic"
+    ]
+  }
