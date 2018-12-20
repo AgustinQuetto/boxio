@@ -11,6 +11,10 @@
       "storage",
       "global",
       "states",
-      "generic"
+      "generic",
+      "extensible",
+      "friendly",
+      "frontend",
+      "applications"
     ]
   }
