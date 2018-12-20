@@ -60,7 +60,7 @@ class Helper {
         this.storage = storage ? storage : new Storage()
     }
 
-    write(e, action) {
+    static write(e, action) {
         switch (action) {
             case "write":
                 const val = this.storage.get([e.target.name]) !== null ? this.storage.get([e.target.name]) : ''
